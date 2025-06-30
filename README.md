@@ -17,7 +17,9 @@ This isn’t just a rename — it’s a reflection of our evolving mission and f
 
 We are proud of what we are building with you — and this is one more step in making it even better.
 
+
 Thank you for growing with us —  we are excited for what’s ahead, and glad you are part of it.
+
 – The Franka Robotics Team
 
 
