@@ -13,11 +13,9 @@ This isn’t just a rename — it’s a reflection of our evolving mission and f
 - All official resources and repositories are now under `frankarobotics`.
 
 ##
-👉 Visit our new home: [https://github.com/frankarobotics](https://github.com/frankarobotics)
+👉 Visit our new home: [https://github.com/frankarobotics](https://github.com/frankarobotics). We are proud of what we are building with you — and this is one more step in making it even better.
 
-We are proud of what we are building with you — and this is one more step in making it even better.
 
-##
 Thank you for growing with us —  we are excited for what’s ahead, and glad you are part of it.
 
 – The Franka Robotics Team
